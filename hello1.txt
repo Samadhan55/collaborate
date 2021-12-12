@@ -1,0 +1,9 @@
+Git and github
+--------------------------------Git---- commands
+git init
+-> initialize a github repository
+
+git add . or git add <filename>
+->adding changes to the staging area
+
+git commit -m"this is message of each commit"
